@@ -1,7 +1,7 @@
-# project-1 lights and sound
+# project-1 BitBot lights and sound
 
 ## step 1 buzzer on
-first we will get the "select bitbit modle" block from the "select bitbit modle" tab
+First we will get the "select bitbit modle" block from the "select bitbit modle" tab
 and place it in the "on start" block.
 Then we will get the "turn buzzer" block from "inputs and outputs" tab and place it under the "select bitbit modle" block
 switch stur buzzer to "on"
