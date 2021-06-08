@@ -3,8 +3,8 @@
 ## step 1 
 Buzzer On
 
-First we will get the "select bitbit model" block from the "select bitbit model" tab and place it in the "on start" block.
-Then we will get the "turn buzzer" block from "inputs and outputs" tab and place it under the "select bitbit model" block switch buzzer to "on".
+First we will get the "select bitbot model" block from the "select bitbot model" tab and place it in the "on start" block.
+Then we will get the "turn buzzer" block from "inputs and outputs" tab and place it under the "select bitbot model" block switch buzzer to "on".
 
 ```blocks
 bitbot.select_model(BBModel.Classic)
